@@ -1,4 +1,4 @@
-# QuikClik Browser v0.01
+# QuikClik Browser v0.02
 The official QuikClik browser.
 Changelog:
-N/A
+v0.02 - 05/03/26 - Icons folder and README created.

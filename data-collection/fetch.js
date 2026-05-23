@@ -2,7 +2,7 @@
 // Posted by vlasterx, modified by community. See post 'Timeline' for change history
 // Retrieved 2026-05-23, License - CC BY-SA 4.0
 
-fetch('somePage.html')
+fetch('example.com')
   .then(response => {
     return response.text()
   })
